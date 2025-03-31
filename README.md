@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/yajurrsharma/yajurrsharma/blob/main/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/yajurrsharma/yajurrsharma/blob/main/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
