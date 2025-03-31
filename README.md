@@ -1,16 +1,16 @@
-<h1 align="center">Hi there! 👋 I'm Yajur</h1>
+<h1 align="center">Hi! I'm Yajur :)</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+^_^;Follow+up+for+cool+projects!)
 
 ---
 
-### 🚀 **About Me**
+### **All About Me**
 - 🔭 I’m currently working on **cool projects**  
 - 🌱 I’m learning **Python, JavaScript, Web Dev, and Lots of Frameworks.**  
 - 💬 Ask me about **Coding, Open Source, and Tech**  
-- 📫 Reach me at **contact.developeryajur@gmail.com**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love coffee ☕ and coding 💻!**  
+- 📫 Reach me at **contact.developeryajur@gmail.com**
+  
+-   **and oh, i love coffee ☕ (buying into the typical programming stereotype)**  
 
 ---
 
@@ -43,11 +43,7 @@
 ---
 
 ## 🔗 **Connect With Me**
-<p align="center">
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="https://discord.gg/your-server"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white" /></a>
-</p>
+You can contact me on my email, or check out my website **yajurrsharma.github.io/site** and fill the contact form there :)
 
 ---
 
