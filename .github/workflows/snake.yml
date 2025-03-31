@@ -30,7 +30,7 @@ jobs:
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output 
+          target_branch: main
           build_dir: dist
           keep_history: true
         env:
