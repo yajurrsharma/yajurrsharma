@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajurrsharma&layout=compact&theme=radical" />
+  ![GitHub Contribution Snake](https://raw.githubusercontent.com/yajurrsharma/output/main/github-contribution-grid-snake-dark.svg)
 </p>
 
 ---
