@@ -17,18 +17,35 @@ jobs:
         with:
           github_user_name: yajurrsharma
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/snake.svg
+          svg_fill_style: |
+            <style>
+              rect.bg { fill: transparent !important; }
+              rect.wall { fill: transparent !important; }
+              rect.empty { fill: transparent !important; opacity: 0; }
+            </style>
+          palette: github-dark
+          color_snake: "#9400D3"
+          color_dots: "#39d353"
+          color_empty: "transparent"
+
+      - name: Force transparent background (Post-processing)
+        run: |
+          sed -i 's/fill:#[0-9a-fA-F]\{6\}/fill:transparent/g' dist/snake.svg
+          sed -i 's/fill="[^"]*"/fill="transparent"/g' dist/snake.svg
+          sed -i 's/<svg /<svg style="background-color:transparent" /g' dist/snake.svg
+          sed -i 's/opacity:[0-9.]\+/opacity:0/g' dist/snake.svg
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: snake-animation
-          path: dist/github-contribution-grid-snake.svg
+          path: dist/snake.svg
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output 
+          target_branch: output
           build_dir: dist
           keep_history: true
         env:
