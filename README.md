@@ -1,5 +1,3 @@
-<h1 align="center">Hi! I'm Yajur :)</h1>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+^_^;Follow+up+for+cool+projects!)
 
 ---
