@@ -8,7 +8,7 @@
 - 💬 Ask me about **Coding, Open Source, and Tech**  
 - 📫 Reach me at **contact.developeryajur@gmail.com**
   
--   **and oh, i love coffee ☕ (buying into the typical programming stereotype)**  
+ **and oh, i love coffee ☕ (buying into the typical programming stereotype)**  
 
 ---
 
