@@ -18,9 +18,7 @@ jobs:
           github_user_name: yajurrsharma
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: "#9400D3" 
-          color_dots: "#00FF00"   
-          color_grid: "#0D1117"   
+          palette: github-dark
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
