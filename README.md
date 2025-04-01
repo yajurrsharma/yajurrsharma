@@ -3,12 +3,11 @@
 ---
 
 ### **All About Me**
-- 🔭 I’m currently working on **cool projects**  
-- 🌱 I’m learning **Python, JavaScript, Web Dev, and Lots of Frameworks.**  
-- 💬 Ask me about **Coding, Open Source, and Tech**  
+- 🔭 I’m currently working on **AI.**  
+- 💬 Ask me about **Coding, Open Source, and Tech.**  
 - 📫 Reach me at **contact.developeryajur@gmail.com**
   
- **and oh, i love coffee ☕ (buying into the typical programming stereotype)**  
+ **and oh, i _LOVE_ coffee ☕ (buying into the typical programming stereotype)**  
 
 ---
 
