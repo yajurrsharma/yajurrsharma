@@ -7,7 +7,7 @@
 - 💬 Ask me about **Coding, Open Source, and Tech.**  
 - 📫 Reach me at **contact.developeryajur@gmail.com**
   
- and oh, i _LOVE_ coffee ☕
+and oh, i _LOVE_ coffee ☕
 ---
 
 ## 📊 **GitHub Stats**
