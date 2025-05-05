@@ -4,7 +4,7 @@
 
 ### **All About Me**
 - 🔭 I’m currently working on **AI.**  
-- 💬 Ask me about **Coding, Open Source, and Tech.**  
+- 💬 Ask me about **Coding and Tech.**  
 - 📫 Reach me at **contact.developeryajur@gmail.com**
   
 and oh, i _LOVE_ coffee ☕
