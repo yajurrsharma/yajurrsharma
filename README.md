@@ -3,7 +3,7 @@
 ---
 
 ### **All About Me**
-- 🔭 I’m currently working on **AI.**  
+- 🔭 I’m currently working on **AI and Hardware**  
 - 💬 Ask me about **Coding and Tech.**  
 - 📫 Reach me at **contact.developeryajur@gmail.com**
   
