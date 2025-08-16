@@ -8,6 +8,7 @@
 - 📫 Reach me at **contact.developeryajur@gmail.com**
   
 <p>(yes i know i vanish from github from time to time, working on it)</p>
+
 ---
 
 <center><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=11491&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"></center>
