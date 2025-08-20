@@ -1,12 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6D67E4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+^_^;Follow+up+for+cool+ideas!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6D67E4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+^_^)
 
----
-
-### **All About Me**
-- 🔭 I’m currently working on **AI and Hardware**  
-- 💬 Ask me about **Coding and Tech.**  
-- 📫 Reach me at **contact.developeryajur@gmail.com**
-  
+---  
 <p>(yes i know i vanish from github from time to time, working on it)</p>
 
 ---
