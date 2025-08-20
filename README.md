@@ -1,8 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6D67E4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+^_^)
 
----  
-<p>(yes i know i vanish from github from time to time, working on it)</p>
-
 ---
 
 <center><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=11491&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"></center>
