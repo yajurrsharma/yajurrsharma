@@ -36,7 +36,7 @@
     <circle cx="46" cy="10" r="5" fill="#27c93f"/>
 
     <text x="0" y="45" class="text">
-      <tspan class="prompt">yajur@archlinux</tspan><tspan class="cmd">:~ $ gh stats --user yajurrsharma</tspan>
+      <tspan class="prompt">yajur@arch</tspan><tspan class="cmd">:~ $ gh stats --user yajurrsharma</tspan>
     </text>
 
     <foreignObject x="0" y="60" width="700" height="60">
