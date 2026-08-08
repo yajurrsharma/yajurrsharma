@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="380" viewBox="0 0 700 380" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="410" viewBox="0 0 850 410" fill="none">
   <style>
     .bg { fill: #0d1117; rx: 12px; stroke: #30363d; stroke-width: 1px; }
-    .text { font-family: 'Fira Code', 'Courier New', Consolas, monospace; white-space: pre; }
-    .header { fill: #d2a8ff; font-weight: bold; font-size: 14px; }
+    .text { font-family: 'Fira Code', 'Courier New', Consolas, monospace; font-size: 11px; white-space: pre; }
+    .art { fill: #1793d1; font-weight: bold; }
+    .header { fill: #d2a8ff; font-weight: bold; font-size: 13px; }
     .label { fill: #7ee787; font-weight: bold; font-size: 12px; }
     .lang-label { fill: #f2cc60; font-weight: bold; font-size: 12px; }
     .focus-label { fill: #79c0ff; font-weight: bold; font-size: 12px; }
@@ -11,29 +12,46 @@
     .subtle { fill: #484f58; font-size: 12px; }
   </style>
 
-  <rect width="700" height="380" class="bg" />
+  <rect width="850" height="410" class="bg" />
 
-  <g transform="translate(30, 30)" class="text">
-    <text x="0" y="20">
-      <tspan class="header">yajur</tspan><tspan class="val">@</tspan><tspan class="header">sharma</tspan> <tspan class="subtle">---------------------------------------------------</tspan>
-    </text>
+  <g transform="translate(25, 30)" class="text">
+    <!-- Left Column: Arch Linux ASCII Art -->
+    <text x="0" y="20" class="art">          /\</text>
+    <text x="0" y="38" class="art">         /  \</text>
+    <text x="0" y="56" class="art">        /\   \</text>
+    <text x="0" y="74" class="art">       /      \</text>
+    <text x="0" y="92" class="art">      /   ,,   \</text>
+    <text x="0" y="110" class="art">     /   |  |  -\</text>
+    <text x="0" y="128" class="art">    /_-''    ''-_\</text>
     
-    <text x="0" y="50"><tspan class="label">OS: .................. </tspan><tspan class="val">Linux, Windows 11</tspan></text>
-    <text x="0" y="70"><tspan class="label">Uptime: .............. </tspan><tspan class="val">Building &amp; Tinkering</tspan></text>
-    <text x="0" y="90"><tspan class="label">Host: ................ </tspan><tspan class="val">Software Engineer &amp; Hardware Developer</tspan></text>
-    <text x="0" y="110"><tspan class="label">Kernel: .............. </tspan><tspan class="val">Machine Learning, Web Systems &amp; Hardware</tspan></text>
-    <text x="0" y="130"><tspan class="label">IDE: ................. </tspan><tspan class="val">VS Code, Neovim</tspan></text>
+    <text x="0" y="165" class="subtle">-------------------</text>
+    <text x="0" y="185" class="val">&gt; System: Active</text>
+    <text x="0" y="205" class="val">&gt; OS: Arch Linux</text>
+    <text x="0" y="225" class="val">&gt; Shell: zsh</text>
 
-    <text x="0" y="165"><tspan class="lang-label">Languages.Dev: ....... </tspan><tspan class="val">Python, C++, JavaScript</tspan></text>
-    <text x="0" y="185"><tspan class="lang-label">Languages.Web: ....... </tspan><tspan class="val">HTML5, CSS3, Flask, MySQL</tspan></text>
-    <text x="0" y="205"><tspan class="lang-label">Languages.Real: ...... </tspan><tspan class="val">English, Hindi</tspan></text>
+    <!-- Right Column: Fastfetch Data -->
+    <g transform="translate(240, 0)">
+      <text x="0" y="20">
+        <tspan class="header">yajur</tspan><tspan class="val">@</tspan><tspan class="header">sharma</tspan> <tspan class="subtle">---------------------------------------</tspan>
+      </text>
+      
+      <text x="0" y="50"><tspan class="label">OS: .................. </tspan><tspan class="val">Linux, Windows 11</tspan></text>
+      <text x="0" y="72"><tspan class="label">Uptime: .............. </tspan><tspan class="val">Building &amp; Tinkering</tspan></text>
+      <text x="0" y="94"><tspan class="label">Host: ................ </tspan><tspan class="val">Software Engineer &amp; Hardware Developer</tspan></text>
+      <text x="0" y="116"><tspan class="label">Kernel: .............. </tspan><tspan class="val">Machine Learning, Web Systems &amp; Hardware</tspan></text>
+      <text x="0" y="138"><tspan class="label">IDE: ................. </tspan><tspan class="val">VS Code, Neovim</tspan></text>
 
-    <text x="0" y="240"><tspan class="focus-label">Focus.Software: ...... </tspan><tspan class="val">Machine Learning, Web Scraping, Automation</tspan></text>
-    <text x="0" y="260"><tspan class="focus-label">Focus.Hardware: ...... </tspan><tspan class="val">Embedded Systems, Microcontrollers, PCB Design</tspan></text>
-    <text x="0" y="280"><tspan class="focus-label">Focus.Security: ...... </tspan><tspan class="val">Wireshark, Burp Suite, Network Analysis</tspan></text>
+      <text x="0" y="170"><tspan class="lang-label">Languages.Dev: ....... </tspan><tspan class="val">Python, C++, JavaScript</tspan></text>
+      <text x="0" y="192"><tspan class="lang-label">Languages.Web: ....... </tspan><tspan class="val">HTML5, CSS3, Flask, MySQL</tspan></text>
+      <text x="0" y="214"><tspan class="lang-label">Languages.Real: ...... </tspan><tspan class="val">English, Hindi</tspan></text>
 
-    <text x="0" y="315" class="subtle">- Contact ----------------------------------------------------------------</text>
-    <text x="0" y="335"><tspan class="contact-label">Portfolio: ........... </tspan><tspan class="val">yajurrsharma.github.io/site</tspan></text>
-    <text x="0" y="355"><tspan class="contact-label">Instagram: ........... </tspan><tspan class="val">@yajurrsharma</tspan></text>
+      <text x="0" y="246"><tspan class="focus-label">Focus.Software: ...... </tspan><tspan class="val">Machine Learning, Web Scraping, Automation</tspan></text>
+      <text x="0" y="268"><tspan class="focus-label">Focus.Hardware: ...... </tspan><tspan class="val">Embedded Systems, Microcontrollers, PCB Design</tspan></text>
+      <text x="0" y="290"><tspan class="focus-label">Focus.Security: ...... </tspan><tspan class="val">Wireshark, Burp Suite, Network Analysis</tspan></text>
+
+      <text x="0" y="322" class="subtle">- Contact ------------------------------------------------</text>
+      <text x="0" y="344"><tspan class="contact-label">Portfolio: ........... </tspan><tspan class="val">yajurrsharma.github.io/site</tspan></text>
+      <text x="0" y="366"><tspan class="contact-label">Instagram: ........... </tspan><tspan class="val">@yajurrsharma</tspan></text>
+    </g>
   </g>
 </svg>
