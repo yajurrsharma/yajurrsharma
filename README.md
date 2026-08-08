@@ -6,7 +6,7 @@
   <img alt="Yajur Sharma Profile Terminal" src="https://raw.githubusercontent.com/yajurrsharma/yajurrsharma/main/dark_mode.svg" style="border: 0; outline: none; background: transparent; display: block;">
 </picture>
 
-<br><br>
+<br>
 
 <!-- Terminal with White Typewriter Effect -->
 <picture>
