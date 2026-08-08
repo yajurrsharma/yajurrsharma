@@ -11,7 +11,7 @@
     .subtle { fill: #484f58; font-size: 12px; }
   </style>
 
-  <rect width="750" height="450" class="bg" />
+  <rect width="750" height="500" class="bg" />
 
   <g transform="translate(30, 30)" class="text">
     <text x="0" y="20">
