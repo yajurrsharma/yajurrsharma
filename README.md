@@ -7,14 +7,4 @@
 
 </div>
 
----
 
-### 💻 Interactive Terminal
-
-```bash
-yajur@archlinux ~ $ cat status.txt
-> Currently building: Standalone hardware tools & ML Tools
-> Learning: Quantum Computing & system automation
-
-yajur@archlinux ~ $ gh stats --user yajurrsharma
-Fetching profile metrics...
