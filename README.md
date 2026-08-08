@@ -6,7 +6,7 @@
   <img alt="Yajur Sharma Profile Terminal" src="https://raw.githubusercontent.com/yajurrsharma/yajurrsharma/main/dark_mode.svg" style="border: 0; outline: none; background: transparent; display: block;">
 </picture>
 
-<br />
+<br><br>
 
 <!-- Terminal with White Typewriter Effect -->
 <picture>
@@ -14,20 +14,7 @@
   <img alt="Animated Terminal Stats" src="https://raw.githubusercontent.com/yajurrsharma/yajurrsharma/main/terminal.svg" style="border: 0; outline: none; background: transparent; display: block;">
 </picture>
 
-<br /><br />
-
-<!-- GitHub Stats Cards -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yajurrsharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajurrsharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<br />
-
-<!-- Hackatime / Wakatime Stats -->
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=11491&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=6" alt="Hackatime Stats" />
-
-<br /><br />
+<br><br>
 
 <!-- Snake Animation -->
 <p align="center">
