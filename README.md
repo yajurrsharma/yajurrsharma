@@ -14,7 +14,7 @@
   <img alt="Animated Terminal Stats" src="https://raw.githubusercontent.com/yajurrsharma/yajurrsharma/main/terminal.svg" style="border: 0; outline: none; background: transparent; display: block;">
 </picture>
 
-<br><br>
+<br>
 
 <!-- Snake Animation -->
 <p align="center">
