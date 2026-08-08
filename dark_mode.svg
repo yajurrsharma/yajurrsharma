@@ -22,8 +22,6 @@
     <text x="0" y="70"><tspan class="label">Uptime: .............. </tspan><tspan class="val">Building &amp; Tinkering</tspan></text>
     <text x="0" y="90"><tspan class="label">Host: ................ </tspan><tspan class="val">Software Engineer &amp; Hardware Developer</tspan></text>
     <text x="0" y="110"><tspan class="label">Kernel: .............. </tspan><tspan class="val">Machine Learning, Web Systems &amp; Hardware</tspan></text>
-    <text x="0" y="130"><tspan class="label">IDE: ................. </tspan><tspan class="val">VS Code, Neovim</tspan></text>
-
     <text x="0" y="165"><tspan class="lang-label">Languages.Dev: ....... </tspan><tspan class="val">Python, C++, JavaScript</tspan></text>
     <text x="0" y="185"><tspan class="lang-label">Languages.Web: ....... </tspan><tspan class="val">HTML5, CSS3, Flask, MySQL</tspan></text>
     <text x="0" y="205"><tspan class="lang-label">Languages.Real: ...... </tspan><tspan class="val">English, Hindi</tspan></text>
