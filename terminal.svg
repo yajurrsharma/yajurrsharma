@@ -69,7 +69,7 @@
 
     <!-- Executed Command -->
     <text x="0" y="42" class="text">
-      <tspan class="prompt">yajur@archlinux</tspan><tspan class="cmd">:~ $ ping -c 3 yajurrsharma.github.io</tspan>
+      <tspan class="prompt">yajur@arch</tspan><tspan class="cmd">:~ $ ping -c 3 yajurrsharma.github.io</tspan>
     </text>
 
     <!-- Foreign Object to hold stacked animated div lines -->
