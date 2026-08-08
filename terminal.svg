@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="200" viewBox="0 0 750 200" fill="none">
+  <style>
+    .bg { fill: #0d1117; rx: 10px; stroke: #30363d; stroke-width: 1px; }
+    .text { font-family: 'Fira Code', 'Courier New', Consolas, monospace; font-size: 13px; fill: #7ee787; white-space: pre; }
+    .cmd { fill: #c9d1d9; }
+    .prompt { fill: #d2a8ff; font-weight: bold; }
+    
+    /* Typewriter animation cycle */
+    .typewriter {
+      overflow: hidden;
+      border-right: 2px solid #7ee787;
+      white-space: nowrap;
+      animation: typing 8s steps(40, end) infinite, blink 0.75s step-end infinite;
+      display: inline-block;
+    }
+
+    @keyframes typing {
+      0% { width: 0; }
+      30% { width: 100%; }
+      70% { width: 100%; }
+      85% { width: 0; }
+      100% { width: 0; }
+    }
+
+    @keyframes blink {
+      from, to { border-color: transparent; }
+      50% { border-color: #7ee787; }
+    }
+  </style>
+
+  <rect width="750" height="200" class="bg" />
+
+  <g transform="translate(25, 35)">
+    <!-- Terminal Header Bar -->
+    <circle cx="10" cy="10" r="5" fill="#ff5f56"/>
+    <circle cx="28" cy="10" r="5" fill="#ffbd2e"/>
+    <circle cx="46" cy="10" r="5" fill="#27c93f"/>
+
+    <!-- Executed Command -->
+    <text x="0" y="45" class="text">
+      <tspan class="prompt">yajur@archlinux</tspan><tspan class="cmd">:~ $ gh stats --user yajurrsharma</tspan>
+    </text>
+
+    <!-- Animated Typewriter Output Block -->
+    <foreignObject x="0" y="60" width="700" height="100">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="text" style="padding-top: 10px;">
+        <div class="typewriter">
+          &gt; Total Commits: 450+ | Repositories: 25 | Pull Requests: 12
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
