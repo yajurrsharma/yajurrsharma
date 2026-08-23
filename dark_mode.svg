@@ -23,13 +23,13 @@
     <text x="0" y="82"><tspan class="label">Host: ................ </tspan><tspan class="val">Software Engineer &amp; Hardware Developer</tspan></text>
     <text x="0" y="100"><tspan class="label">Kernel: .............. </tspan><tspan class="val">Machine Learning, Web Systems &amp; Hardware</tspan></text>
 
-    <text x="0" y="148"><tspan class="lang-label">Languages.Dev: ....... </tspan><tspan class="val">Python, C++, C, JavaScript</tspan></text>
+    <text x="0" y="148"><tspan class="lang-label">Languages.Dev: ....... </tspan><tspan class="val">Python, C, Go</tspan></text>
     <text x="0" y="166"><tspan class="lang-label">Languages.Web: ....... </tspan><tspan class="val">HTML5, CSS3, Flask, MySQL</tspan></text>
     <text x="0" y="184"><tspan class="lang-label">Languages.Real: ...... </tspan><tspan class="val">English, Hindi</tspan></text>
 
     <text x="0" y="214"><tspan class="focus-label">Focus.Software: ...... </tspan><tspan class="val">Machine Learning, Web Scraping, Automation</tspan></text>
     <text x="0" y="232"><tspan class="focus-label">Focus.Hardware: ...... </tspan><tspan class="val">Embedded Systems, Microcontrollers, PCB Design</tspan></text>
-    <text x="0" y="250"><tspan class="focus-label">Focus.Security: ...... </tspan><tspan class="val">Wireshark, Burp Suite, Network Analysis</tspan></text>
+    <text x="0" y="250"><tspan class="focus-label">Focus.Security: ...... </tspan><tspan class="val">Network Analysis, Website Security, Social Engineering</tspan></text>
 
     <text x="0" y="280" class="subtle">- Contact ----------------------------------------------------------------</text>
     <text x="0" y="298"><tspan class="contact-label">Portfolio: ........... </tspan><tspan class="val">yajurrsharma.github.io/site</tspan></text>
