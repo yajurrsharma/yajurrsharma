@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/yajurrsharma/yajurrsharma/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
